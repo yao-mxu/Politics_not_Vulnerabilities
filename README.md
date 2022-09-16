@@ -2,7 +2,7 @@
 ### Hosting R code used for previous versions of R
 ### September 16, 2022
 
-If you are using an older version of R and the OSF deposited code does not compile the figures or tables in ``Politics, not Vulnerability: Republicans Discriminated Against Chinese-born Americans Throughout the COVID-19 Pandemic'' correctly, please try the code deposited here in this repository.
+If you are using an older version of R and the OSF deposited code does not compile the figures or tables in ''Politics, not Vulnerability: Republicans Discriminated Against Chinese-born Americans Throughout the COVID-19 Pandemic'' correctly, please try the code deposited here in this repository.
 
 #### Issue 1: Stargazer output error
 

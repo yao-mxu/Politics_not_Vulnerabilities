@@ -1,5 +1,5 @@
 ## Politics Not Vulnerabilities: Republicans Discriminated Against Chinese-born Americans Throughout the COVID-19 Pandemic
-### Hosting R code used for previous versions of R
+### Republicans Discriminated Against Chinese-born Americans Throughout the COVID-19 Pandemic; Hosting R code used for previous versions of R
 ### September 16, 2022
 
 Hi there!
